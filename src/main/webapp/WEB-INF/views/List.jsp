@@ -123,7 +123,7 @@
 				return false;
 			}
 		}) 
-		
+		  
 		$(document).on("click",".img",function(){
 			$("#bigImg").find("img").remove();
 			$("#bigImg").css("display","inline");
